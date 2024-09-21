@@ -1,0 +1,29 @@
+textarea {
+    min-height: 400px;
+}
+
+#emails-view {
+    color: rgba(0, 0, 255, 0.558);
+}
+
+#mailbox-view {
+    border: 3px solid rgba(78, 100, 172, 0.642);
+    padding: 3%;
+    border-radius: 10px;
+    margin: 2% 0;
+}
+
+#mail-list {
+    margin: 2% 0;
+}
+
+.email-box {
+    border: 2px solid rgba(5, 19, 32, 0.696);
+    margin: 1% 0;
+    min-height: 30px;
+    cursor: pointer;
+}
+
+.email-box-grey {
+    background-color: gray;
+}
